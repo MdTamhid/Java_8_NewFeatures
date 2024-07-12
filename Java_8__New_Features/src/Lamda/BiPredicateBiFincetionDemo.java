@@ -14,6 +14,11 @@ public class BiPredicateBiFincetionDemo {
 		BiFunction<Integer, Integer, Integer> multiplyBoth= (a,b) -> a*b;
 		System.out.println("Multiple of 5 and 10 is "+multiplyBoth.apply(5, 10));
 		
+		
+		
+		
+		
+
 	}
 
 }
